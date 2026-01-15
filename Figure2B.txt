@@ -1,0 +1,8 @@
+1to5kb	1096
+3UTRs	340
+5UTRs	441
+exons	1355
+intergenic	8370
+intronexonboundaries	1127
+introns	6539
+promoters	599

@@ -1,0 +1,81 @@
+GeneSymbol	CR1	CR2	CR3	CR4	CR5	CR6	CR7	CR8	CR9	CR10	CR11	CR12	CR13	CR14	CR15	NR1	NR2	NR3	NR4	NR5	NR6	NR7	NR8	NR9	NR10	NR11	NR12	NR13
+ABCA13															Missense													
+ABCB1								Missense																				
+AKAP12							Missense																					
+ASXL1										Copy_number_amplification							Missense											
+BCOR	Copy_number_amplification	Nonsense																									Copy_number_amplification	
+BCR						Missense																		Missense				
+BRIP1										Copy_number_amplification					Missense													
+CBL									Missense					Missense										Missense		Missense		
+CDC25C															Missense													
+CDKN2A																						Missense						
+CEBPA			Nonsense						Deletion; Missense																			
+CHD8															Missense													
+CSF3R																							Missense					
+DCLRE1C											Missense			Missense														
+DNAH5															Missense													
+DNMT3A				Nonsense													Missense	Nonsense						Missense				
+DNMT3B						Missense				Copy_number_amplification																		
+EGLN1																				Missense								
+EID2							Deletion																					
+ELANE																Copy_number_amplification									Missense			
+EPAS1																			Missense									
+ETNK1																										Missense		
+FANCD2														Missense		Copy_number_deletion			Copy_number_amplification									
+FAT1													Missense			Missense												
+FLT3					Insertion														Insertion					Insertion				
+GATA2																					Missense							Missense
+GCKR															Missense													
+GNAS										Deletion																		
+IDH1																									Missense			
+IDH2		Missense																		Missense								
+IKZF1										Copy_number_deletion			Frameshift															
+JAK2										Missense																		
+KDM4B							Missense																					
+KDR		Missense																										
+KIT																						Missense						
+KMT2C	Copy_number_deletion									Copy_number_deletion															Missense			Copy_number_deletion
+KMT2D																		Missense										
+LAMB4		Missense																								Missense		
+LIG4																Missense												
+LPP																			Missense									
+LRP1B												Missense																
+MRE11																									Missense			
+NCOR2																		Duplication						Missense				
+NF1									Nonsense							Missense												
+NOTCH1											Missense																	
+NPM1					Nonsense	Nonsense																						
+NSD1												Missense								Missense								
+NSD3						Missense															Missense							
+NTRK3			Missense		Missense																							
+PARN																Missense											Missense	
+PML																						Missense						
+PMS2	Nonsense																											
+PTPRD												Missense																
+PTPRQ							Missense																					
+RAD50																				Missense								
+RNF168											Missense																	
+RPL10																										Missense		
+RPS7						Missense																						
+SBF2										Missense																		
+SETBP1															Missense													
+SETD2					Missense																							
+SF3B1																								Missense				
+SLX4	Missense																											
+SPEN															Missense													
+SRSF2						Missense																						
+SUZ12																										Missense		
+SYNE1											Missense									Missense								
+TET2					Missense; Nonsense				Nonsense				Nonsense										Nonsense; Nonsense	Copy_number_deletion				
+TGM6																								Missense				
+TP53	Missense; Copy_number_deletion									Nonsense; Copy_number_deletion																		
+TTN												Missense																
+U2AF1								Missense								Missense												
+UNC13D																							Missense					
+VPS13B																	Missense										Missense	
+VWF						Missense																						
+WNK2							Missense																					
+WT1																				Copy_number_amplification	Nonsense							
+XRCC2	Nonsense; Copy_number_deletion																											Copy_number_deletion
+ZFHX4														Missense														
+ZRSR2																Deletion												

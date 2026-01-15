@@ -1,0 +1,16 @@
+1to5kb	hyper	976
+1to5kb	hypo	120
+3UTRs	hyper	311
+3UTRs	hypo	29
+5UTRs	hyper	412
+5UTRs	hypo	29
+exons	hyper	1234
+exons	hypo	121
+intergenic	hyper	6187
+intergenic	hypo	2183
+intronexonboundaries	hyper	1017
+intronexonboundaries	hypo	110
+introns	hyper	5330
+introns	hypo	1209
+promoters	hyper	552
+promoters	hypo	47
